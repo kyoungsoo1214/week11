@@ -29,6 +29,33 @@ const menuItems = [
       'https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=900&q=85',
     alt: '정성스럽게 내리는 핸드드립 커피',
   },
+  {
+    name: '제주 말차 라테',
+    english: 'JEJU MATCHA LATTE',
+    description: '제주 말차의 은은한 쌉싸름함과 부드러운 우유',
+    price: '6,000',
+    image:
+      'https://images.unsplash.com/photo-1515823064-d6e0c04616a7?auto=format&fit=crop&w=900&q=85',
+    alt: '초록빛 말차가 담긴 음료',
+  },
+  {
+    name: '레몬 허니 에이드',
+    english: 'LEMON HONEY ADE',
+    description: '상큼한 레몬과 은은한 꿀로 만든 청량한 에이드',
+    price: '6,000',
+    image:
+      'https://images.unsplash.com/photo-1513558161293-cdaf765edfd7?auto=format&fit=crop&w=900&q=85',
+    alt: '시원한 과일 음료 한 잔',
+  },
+  {
+    name: '바스크 치즈케이크',
+    english: 'BASQUE CHEESECAKE',
+    description: '겉은 진하게 굽고 속은 촉촉하게 완성한 케이크',
+    price: '6,500',
+    image:
+      'https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=900&q=85',
+    alt: '진한 치즈케이크 디저트',
+  },
 ]
 
 function ArrowIcon() {
